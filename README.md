@@ -76,12 +76,7 @@ Setiap gambar `.jpg` dalam folder `images/` memiliki file `.txt` yang sesuai di 
    ```bash
    python tugas_klasifikasi2.py
    ```
-
-## 🔧 Pengembangan Selanjutnya
-- Menambahkan augmentasi data (flip, rotate, brightness)
-- Menggunakan arsitektur CNN yang lebih kompleks (MobileNet, ResNet)
-- Menyimpan model dan membuat antarmuka inferensi (web atau desktop)
-- Mengintegrasikan bounding box jika ingin deteksi objek jamak
+   
 
 ## 📝 Penulis
-Dibuat untuk tugas mata kuliah **Komputer Visual**, oleh [Nama Kamu].
+Dibuat untuk tugas mata kuliah **Komputer Visual**, oleh Renaldi Pratama.
